@@ -1,0 +1,19 @@
+{
+    "uuid": "8ececf0c-e8cc-4f64-a584-7e0a2f3bcaf6",
+    "title": "Hello, World! (system call style)",
+    "topic": "System Calls",
+    "tags": [
+        "uuchei2",
+        "cs341",
+        "sp24"
+    ],
+    "type": "v3",
+    "singleVariant": true,
+    "gradingMethod": "External",
+    "externalGradingOptions": {
+        "enabled": true,
+        "image": "prairielearn/grader-c",
+        "timeout": 100,
+        "entrypoint": "python3 /grade/tests/test.py"
+    }
+}

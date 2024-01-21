@@ -1,0 +1,43 @@
+<pl-question-panel>
+<markdown>
+    
+Create a simple program using environment variables to multiply two numbers. Print the result of the multiplication operation using the print_multiplication_result function from format.h
+If the user does not provide enough/too many arguments, use the appropriate format.h function.
+
+    
+You are provided with a "format.h" file as follows:
+    
+```c
+#pragma once
+
+/**
+ * Prompts the user to use the correct executable format in stdout
+ * Call this function whenever a user incorrectly uses your multiplication program.
+ */
+void print_multiplication_usage();
+
+/**
+ * Displays the result of your multiplication program in stdout
+ * Note: this should not be called if the user provided too many/too little parameters
+ *
+ * @param   operand1 an integer which is the first operand for the multiplication operation
+ * @param   operand2 an integer which is the second operand for the multiplication operation
+ * @param   product an integer which is the result of multiplying operand1 and operand2
+ */
+void print_multiplication_result(int operand1, int operand2, int product);
+```
+</markdown>
+    <pl-file-editor source-file-name="source.c" file-name="multiplier.c" ace-mode="ace/mode/c_cpp"></pl-file-editor>
+</pl-question-panel>
+
+<pl-answer-panel>
+    <details class="card">
+    <summary class="card-header">Click to reveal</summary>
+    <pl-code language="c" source-file-name="solution.c"></pl-code>
+    </details>
+</pl-answer-panel>
+
+<pl-submission-panel>
+  <pl-external-grader-results></pl-external-grader-results>
+  <pl-file-preview></pl-file-preview>
+</pl-submission-panel>

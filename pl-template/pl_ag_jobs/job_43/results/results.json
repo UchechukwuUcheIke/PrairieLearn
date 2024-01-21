@@ -1,0 +1,1 @@
+{"score": 1.0, "points": 1, "max_points": 1, "output": "", "message": "", "gradable": true, "tests": [{"name": "Compilation Test", "description": "", "points": 0, "max_points": 0, "output": "", "message": ""}, {"name": "Memory Leak Test", "description": "", "points": 1, "max_points": 1, "output": "Not NULL\nfd: 1\n", "message": ""}]}

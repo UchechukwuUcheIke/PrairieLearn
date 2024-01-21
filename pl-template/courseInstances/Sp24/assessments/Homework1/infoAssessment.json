@@ -1,0 +1,22 @@
+{
+    "uuid": "07cc3a64-43b6-4278-8123-97800bbb717f",
+    "type": "Homework",
+    "title": "Geometric properties and applications",
+    "set": "Homework",
+    "number": "1",
+    "allowAccess": [
+        {
+            "startDate": "2024-01-18T12:00:00",
+            "endDate": "2024-01-19T12:00:00",
+            "credit": 100
+        }    
+    ],
+    "zones": [
+        {
+            "questions": [
+                {"id": "find_rectangle_area_rand", "points": 1, "maxPoints": 5},
+                {"id": "template/integerInput", "points": 1, "maxPoints": 5}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "uuid": "453f99ee-0fb9-4690-be01-add36f875686",
+    "longName": "Spring 2024, Section M",
+    "allowAccess": [
+        {
+            "startDate": "2024-01-17T00:00:01",
+            "endDate": "2024-05-17T23:59:59"
+        }
+    ]
+}

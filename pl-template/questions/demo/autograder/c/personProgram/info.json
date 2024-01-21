@@ -1,0 +1,20 @@
+{
+    "uuid": "61a338b9-f7c7-43db-bd96-89a8ee9105b3",
+    "title": "Autograder Demo: Create a Person \"class\" in C",
+    "topic": "Structs and Memory Allocation",
+    
+    "tags": [
+        "uuchei2",
+        "sp24",
+        "cs341"
+    ],
+    "type": "v3",
+    "singleVariant": true,
+    "gradingMethod": "External",
+    "externalGradingOptions": {
+        "enabled": true,
+        "image": "prairielearn/grader-c",
+        "timeout": 100,
+        "entrypoint": "python3 /grade/tests/test.py"
+    }
+}

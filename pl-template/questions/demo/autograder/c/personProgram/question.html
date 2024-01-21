@@ -1,0 +1,66 @@
+
+
+<pl-question-panel>
+<markdown>
+    
+Complete the implementation of this Person struct.
+Implement the functions person_create, person_destroy, person_set_name, person_set_age, person_get_name, and person_get_age according to Person.h.
+
+The Person.h file is as follows:
+```c
+struct Person {
+    /*Name of the person, should ideally be a string allocated on the heap*/
+    char* name,
+    /*Age of the person*/
+    int age
+}
+
+/*
+    Takes a string for the name and an integer for the age
+    The name assigned to the Person struct is a deep copy
+    Returns a pointer to a Person struct allocated on the heap
+*/
+Person *person_create(char* name, int age);
+/*
+    Takes the reference to a person struct and frees the memory of the associated with the struct
+*/
+void  person_destroy(Person** person);
+
+/*
+    Returns a deep copy of the person's name
+*/
+char* person_get_name(Person* person);
+/*
+    Returns a Person object's age
+*/
+int person_get_age(Person* person);
+
+/*
+    Sets a Person object's name
+*/
+char *person_set_name(Person* person);
+
+/*
+    Sets a Person object's age
+*/
+int person_set_age(Person* person);
+```
+  
+    
+    
+<pl-file-editor source-file-name="source.c" file-name="person.c" ace-mode="ace/mode/c_cpp"></pl-file-editor>
+</markdown>
+</pl-question-panel>
+
+<pl-answer-panel>
+<details class="card">
+<summary class="card-header">Click to reveal</summary>
+<pl-code language="c" source-file-name="solution.c"></pl-code>
+</details>
+</pl-answer-panel>
+
+<pl-submission-panel>
+  <pl-external-grader-results></pl-external-grader-results>
+  <pl-file-preview></pl-file-preview>
+</pl-submission-panel>
+
