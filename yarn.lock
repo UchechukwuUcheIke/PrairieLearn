@@ -3222,7 +3222,7 @@ __metadata:
     "@types/chai": ^4.3.11
     "@types/chai-as-promised": ^7.1.8
     "@types/cookie-parser": ^1.4.6
-    "@types/crypto-js": ^4.2.1
+    "@types/crypto-js": ^4.2.2
     "@types/dockerode": ^3.3.23
     "@types/express": ^4.17.21
     "@types/express-list-endpoints": ^6.0.3
@@ -4759,10 +4759,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/crypto-js@npm:^4.2.1":
-  version: 4.2.1
-  resolution: "@types/crypto-js@npm:4.2.1"
-  checksum: 2111fb39a879e6c346a657cd4994534b8ff54d34dbfe45f82587e84165af0d9a3b8448c0d9a8ddabc81b5875295ea049462e7b969dbeb7cf24ae205e66dcf15a
+"@types/crypto-js@npm:^4.2.2":
+  version: 4.2.2
+  resolution: "@types/crypto-js@npm:4.2.2"
+  checksum: 727daa0d2db35f0abefbab865c23213b6ee6a270e27e177939bbe4b70d1e84c2202d9fac4ea84859c4b4d49a4ee50f948f601327a39b69ec013288018ba07ca5
   languageName: node
   linkType: hard
 
