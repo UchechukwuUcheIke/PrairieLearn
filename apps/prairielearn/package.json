@@ -88,7 +88,7 @@
     "execa": "^5.1.1",
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
-    "express-session": "^1.17.3",
+    "express-session": "^1.18.0",
     "fabric": "^4.6.0",
     "fast-glob": "^3.3.2",
     "fetch-cookie": "^2.1.0",
