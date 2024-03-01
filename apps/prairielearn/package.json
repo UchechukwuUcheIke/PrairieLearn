@@ -50,7 +50,7 @@
     "@sentry/profiling-node": "^1.2.6",
     "@sentry/tracing": "^7.85.0",
     "@socket.io/redis-adapter": "^8.2.1",
-    "@viz-js/viz": "^3.2.3",
+    "@viz-js/viz": "^3.4.0",
     "ace-builds": "^1.32.0",
     "ace-code": "^1.32.0",
     "ajv": "^8.12.0",
