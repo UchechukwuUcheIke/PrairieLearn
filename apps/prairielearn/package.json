@@ -223,7 +223,7 @@
     "@types/tar": "^6.1.10",
     "@types/tmp": "^0.2.6",
     "@types/unzipper": "^0.10.9",
-    "@types/uuid": "^9.0.7",
+    "@types/uuid": "^9.0.8",
     "axe-core": "^4.7.0",
     "chai": "^4.3.10",
     "chai-as-promised": "^7.1.1",
