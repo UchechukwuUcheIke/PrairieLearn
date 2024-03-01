@@ -3374,7 +3374,7 @@ __metadata:
     set-cookie-parser: ^2.6.0
     showdown: ^2.1.0
     socket.io: ^4.7.2
-    socket.io-adapter: ^2.5.2
+    socket.io-adapter: ^2.5.4
     socket.io-client: ^4.7.2
     streamifier: ^0.1.1
     strip-ansi: ^6.0.1
@@ -7909,7 +7909,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"debug@npm:4, debug@npm:4.3.4, debug@npm:^4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.3, debug@npm:^4.3.4, debug@npm:~4.3.1, debug@npm:~4.3.2":
+"debug@npm:4, debug@npm:4.3.4, debug@npm:^4, debug@npm:^4.0.0, debug@npm:^4.1.0, debug@npm:^4.1.1, debug@npm:^4.3.1, debug@npm:^4.3.2, debug@npm:^4.3.3, debug@npm:^4.3.4, debug@npm:~4.3.1, debug@npm:~4.3.2, debug@npm:~4.3.4":
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
   dependencies:
@@ -15412,7 +15412,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"socket.io-adapter@npm:^2.5.2, socket.io-adapter@npm:~2.5.2":
+"socket.io-adapter@npm:^2.5.4":
+  version: 2.5.4
+  resolution: "socket.io-adapter@npm:2.5.4"
+  dependencies:
+    debug: ~4.3.4
+    ws: ~8.11.0
+  checksum: 7dea1d606a039d494f31fe06a9d84e4318704e3e61c1c5b917befe13f03dd9ee1a6564775a5ee92a444e8caaa83555e850e0da855cefa436d18cdbd638b3bb51
+  languageName: node
+  linkType: hard
+
+"socket.io-adapter@npm:~2.5.2":
   version: 2.5.2
   resolution: "socket.io-adapter@npm:2.5.2"
   dependencies:
