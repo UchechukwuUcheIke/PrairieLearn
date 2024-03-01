@@ -3315,7 +3315,7 @@ __metadata:
     highlight.js: ^11.9.0
     htmx.org: ^1.9.9
     http-proxy-middleware: ^2.0.6
-    http-status: ^1.7.3
+    http-status: ^1.7.4
     ioredis: ^5.3.2
     isbinaryfile: ^5.0.0
     jju: ^1.4.0
@@ -10526,10 +10526,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"http-status@npm:^1.7.3":
-  version: 1.7.3
-  resolution: "http-status@npm:1.7.3"
-  checksum: 3e61c201990b23623d45f9c4ab1b73995b75efc16f8749bbdda87347c1186d93cc933a7527e813fdb66eb4b50e8a409f7bc6d995c715f71adc5b27f3e2cef814
+"http-status@npm:^1.7.4":
+  version: 1.7.4
+  resolution: "http-status@npm:1.7.4"
+  checksum: 8d6ba6b0ab3356ff7e48bb06fe2343dbbe9f9b8d4acc3766e1b9963fc6ca20bf50e535813b32968b404c8f4232078061f7465cad12dfb3bd6a750010dff3e877
   languageName: node
   linkType: hard
 
