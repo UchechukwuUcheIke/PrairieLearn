@@ -2976,7 +2976,7 @@ __metadata:
     fs-extra: ^11.2.0
     logform: ^2.6.0
     mocha: ^10.2.0
-    nodemon: ^3.0.2
+    nodemon: ^3.1.0
     sinon: ^17.0.1
     tmp: ^0.2.1
     ts-node: ^10.9.1
@@ -3342,7 +3342,7 @@ __metadata:
     mustache: ^4.2.0
     node-fetch: ^2.7.0
     node-jose: ^2.2.0
-    nodemon: ^3.0.2
+    nodemon: ^3.1.0
     numeric: ^1.2.6
     oauth-signature: ^1.5.0
     object-hash: ^3.0.0
@@ -3523,7 +3523,7 @@ __metadata:
     lodash: ^4.17.21
     mocha: ^10.2.0
     node-fetch: 2.7.0
-    nodemon: ^3.0.2
+    nodemon: ^3.1.0
     ts-node: ^10.9.1
     typescript: ^5.2.2
     typescript-cp: ^0.1.9
@@ -13021,9 +13021,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemon@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "nodemon@npm:3.0.2"
+"nodemon@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "nodemon@npm:3.1.0"
   dependencies:
     chokidar: ^3.5.2
     debug: ^4
@@ -13037,7 +13037,7 @@ __metadata:
     undefsafe: ^2.0.5
   bin:
     nodemon: bin/nodemon.js
-  checksum: 61f3dd207ad444f4a7a2f1aa44adc886605c96c7bc6286291c2360e5e2cd26c3828c90a1418a60783a9da2463593383149135a5a4c099918c54d34a611745499
+  checksum: 0b721f66ee60d9bf092f6101965bc65769698fa2921d0283d90bbf3f0906aa4f3ac77316682375bd7f09c91679fddb131aa39f9fc839fea57061bbc8e81b60e3
   languageName: node
   linkType: hard
 
