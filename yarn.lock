@@ -3259,8 +3259,8 @@ __metadata:
     "@types/unzipper": ^0.10.9
     "@types/uuid": ^9.0.7
     "@viz-js/viz": ^3.2.3
-    ace-builds: ^1.32.0
-    ace-code: ^1.32.0
+    ace-builds: ^1.32.9
+    ace-code: ^1.32.9
     ajv: ^8.12.0
     ansi_up: ^5.2.1
     archiver: ^6.0.1
@@ -5574,17 +5574,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ace-builds@npm:^1.32.0":
-  version: 1.32.0
-  resolution: "ace-builds@npm:1.32.0"
-  checksum: 4da2919224a6d8590649eb3a63d9c5734209fe2e29f81e1bbe05fa146043c50c64b06098dcbaecd25359671f0d9733cb0734f76cd1eb839eee6fb55cf3978a43
+"ace-builds@npm:^1.32.9":
+  version: 1.32.9
+  resolution: "ace-builds@npm:1.32.9"
+  checksum: 24eb24d1a09e2ce9ee4d7bd47f266eca977a8f9cced99ce74491bb6ba5db86ffa47debe78854500bfc7dbed4a52ab13666c8ae5d395bb57a631442a39aae361c
   languageName: node
   linkType: hard
 
-"ace-code@npm:^1.32.0":
-  version: 1.32.0
-  resolution: "ace-code@npm:1.32.0"
-  checksum: 8a81ad25940d337f857abede18a29a5931843edf3d603c7f058c67c457ff090a58f8d1a882b8739bddf65ad73031d92b4fcd40062c824f5c7f6f9af808693cd8
+"ace-code@npm:^1.32.9":
+  version: 1.32.9
+  resolution: "ace-code@npm:1.32.9"
+  checksum: edcdf71abf6997fd9fa09216a57666994e0478d666449069f92bc7d2329a44217c0b21ead00e2f5d9085b2a962c320d885bcc3ebe5f7eb535a1d26d03b3546e0
   languageName: node
   linkType: hard
 
