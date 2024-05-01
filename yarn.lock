@@ -3209,7 +3209,7 @@ __metadata:
     "@prairielearn/signed-token": "workspace:^"
     "@prairielearn/tsconfig": "workspace:^"
     "@prairielearn/workspace-utils": "workspace:^"
-    "@sa11y/format": ^6.2.2
+    "@sa11y/format": ^6.6.1
     "@sentry/profiling-node": ^1.2.6
     "@sentry/tracing": ^7.85.0
     "@socket.io/redis-adapter": ^8.2.1
@@ -3707,32 +3707,32 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sa11y/common@npm:6.2.2":
-  version: 6.2.2
-  resolution: "@sa11y/common@npm:6.2.2"
+"@sa11y/common@npm:6.6.1":
+  version: 6.6.1
+  resolution: "@sa11y/common@npm:6.6.1"
   dependencies:
-    axe-core: 4.7.0
-  checksum: 91a3b7385c31cc3b46620ed192a17f2fade2941f559a7a3c0db2c12d4157f602e7862de55963c4ac4847652e7ffb21cf1d1e846364869873f8b7add3920a1aae
+    axe-core: 4.8.3
+  checksum: 82a32c72fcc0168471d66d0d1a5ba3c1a25baf4bae64f0deffc6113b2a964423741b9e3cc10cf752bb4ebb5837b3d4d70e6f1cded8e321ef6e5d87b59b90f0b0
   languageName: node
   linkType: hard
 
-"@sa11y/format@npm:^6.2.2":
-  version: 6.2.2
-  resolution: "@sa11y/format@npm:6.2.2"
+"@sa11y/format@npm:^6.6.1":
+  version: 6.6.1
+  resolution: "@sa11y/format@npm:6.6.1"
   dependencies:
-    "@sa11y/common": 6.2.2
-    "@sa11y/preset-rules": 6.2.2
-    axe-core: 4.7.0
-  checksum: 0fb0c98eb543ad05fcd8e2831e3f89a5638690381af53f5de53f0f3c5afee1b6b03bcfad381c64f4c0b205dedabe29a6b7cb6a989eb73ff6b3fd9398ce75ddbf
+    "@sa11y/common": 6.6.1
+    "@sa11y/preset-rules": 6.6.1
+    axe-core: 4.8.3
+  checksum: 30e329e05c1fb02b8d4ff8f9c71ea15ae85cb7be7ce4a01928e641dae92507e8314d6cb01abc9815e89e6ee145754272dae90a236f2dc4c6c478fda83d9c2ccf
   languageName: node
   linkType: hard
 
-"@sa11y/preset-rules@npm:6.2.2":
-  version: 6.2.2
-  resolution: "@sa11y/preset-rules@npm:6.2.2"
+"@sa11y/preset-rules@npm:6.6.1":
+  version: 6.6.1
+  resolution: "@sa11y/preset-rules@npm:6.6.1"
   dependencies:
-    "@sa11y/common": 6.2.2
-  checksum: de3b2af1a5569ca083aa50cf46638af0ea8eb3bcb9a6303692bc4ac3cb532a12ea0cc781e85d021d1c29316df08183e02f986798bdc4fa40155cbd309f122d46
+    "@sa11y/common": 6.6.1
+  checksum: a261eb87ef2b4c298de643140dcd0f8316664b6e8438c0f69b73014b54e65b1103940f5f7f1a902415786ecb9cb9d2809a2b6871b29bf0b153319b30199bc9e7
   languageName: node
   linkType: hard
 
@@ -6115,7 +6115,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axe-core@npm:4.7.0, axe-core@npm:^4.7.0":
+"axe-core@npm:4.8.3":
+  version: 4.8.3
+  resolution: "axe-core@npm:4.8.3"
+  checksum: f546c74d1f3a7bff81752457fe9e5573693a8ecce11d3c265db501a82105efe0cd29964a491dd98e5979f6f3d85db6776e5e46626c2b09ab579a3729108964fd
+  languageName: node
+  linkType: hard
+
+"axe-core@npm:^4.7.0":
   version: 4.7.0
   resolution: "axe-core@npm:4.7.0"
   checksum: f086bcab42be1761ba2b0b127dec350087f4c3a853bba8dd58f69d898cefaac31a1561da23146f6f3c07954c76171d1f2ce460e555e052d2b02cd79af628fa4a
