@@ -3293,7 +3293,7 @@ __metadata:
     debug: ^4.3.4
     detect-mocha: ^0.1.0
     dockerode: ^3.3.5
-    dompurify: ^3.0.6
+    dompurify: ^3.1.5
     dropzone: ^5.9.3
     ejs: ^3.1.9
     execa: ^5.1.1
@@ -8307,10 +8307,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dompurify@npm:^3.0.6":
-  version: 3.0.6
-  resolution: "dompurify@npm:3.0.6"
-  checksum: e5c6cdc5fe972a9d0859d939f1d86320de275be00bbef7bd5591c80b1e538935f6ce236624459a1b0c84ecd7c6a1e248684aa4637512659fccc0ce7c353828a6
+"dompurify@npm:^3.1.5":
+  version: 3.1.5
+  resolution: "dompurify@npm:3.1.5"
+  checksum: 18ae2930cba3c260889b99e312c382c344d219bd113bc39fbb665a61987d25849021768f490395e6954aab94448a24b3c3721c160b53550547110c37cebe9feb
   languageName: node
   linkType: hard
 
